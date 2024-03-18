@@ -1,0 +1,20 @@
+.one{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+.two{
+    text-transform: uppercase;
+    text-align: center;
+}
+.tree{
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+    color: rgb(70, 23, 75);
+}
+.for{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    letter-spacing: 5px;
+}
