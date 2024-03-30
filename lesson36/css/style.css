@@ -1,0 +1,22 @@
+.block {
+    box-sizing: border-box;
+    background: rgb(228, 212, 212);
+    border: 1px solid black;
+    height: 600px;
+    overflow: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.block1 {
+    background: rgb(218, 178, 105);
+    padding: 30px 40px;
+    margin: 5px 5px;
+    display: inline-block;
+    width: 200px;
+    height: 180px;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 20px black;
+    font-size: 15px;
+
+}
