@@ -1,0 +1,17 @@
+header {
+    height: 60px;
+    background: orange;
+}
+
+div {
+    background: rgb(175, 138, 69);
+}
+
+footer {
+    background: blueviolet;
+    color: #fff;
+}
+
+.link {
+    color: #fff;
+}
