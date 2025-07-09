@@ -1,0 +1,26 @@
+body {
+   font-family: 'open sans', Courier, monospace;
+
+}
+
+.blok_a {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30PX;
+    font-style: italic;
+}
+.blok_b{
+    text-decoration: line-through;
+}
+.blok_c{
+    text-align: center;
+    text-transform: uppercase;
+}
+.blok_d{
+    word-spacing: 30px;
+}
+.blok_e{
+    letter-spacing: 5px;
+    text-decoration: underline; 
+    text-decoration-style: double;
+}
