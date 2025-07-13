@@ -1,0 +1,19 @@
+.blok{
+    max-height: 500px;
+    width: 1500px;
+    overflow: auto;
+    background: silver;
+}
+.card{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    text-align: left;
+    padding: 20px;
+    margin: 5px;
+    box-sizing: border-box;
+    background: orange;
+    border-radius: 30px;
+    border: 2px solid;
+
+}
