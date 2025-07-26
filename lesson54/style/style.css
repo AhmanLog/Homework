@@ -46,7 +46,7 @@ header {
 /* ============================================================================================================================================================================= */
 
 .hero {
-    background-image: url(/../img/hero_img.png);
+    background-image: url(img/hero_img.png);
     background-repeat: no-repeat;
     background-position: 20% 50%;
     background-size: cover;
